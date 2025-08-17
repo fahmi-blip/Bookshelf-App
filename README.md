@@ -37,10 +37,8 @@ localStorage – Penyimpanan data di sisi browser.
 🚀 Cara Menjalankan
 
 1. Clone repositori ini:
-   
-git clone https://github.com/username/bookshelf-app.git
+`git clone https://github.com/username/bookshelf-app.git`
 
 2. Buka folder proyek:
-
-cd bookshelf-app
+`cd bookshelf-app`
 
